@@ -27,7 +27,8 @@ def upload():
             3: 'Pelinggih',
             4: 'Penjor',
             5: 'Banten Saiban',
-            6: 'kain poleng'
+            6: 'kain poleng',
+            7: 'Tidak Terdeteksi'
         }
 
         img = image.load_img(path, target_size=(150, 150))
